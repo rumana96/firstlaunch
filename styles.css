@@ -92,6 +92,28 @@ p{
 
 }
 
+#courses{
+	
+    padding: 80px;
+	    margin-top: -199px;
+}
+.card-body{
+	    box-shadow: 2px 2px 12px lightgrey;
+}
+.card-image{
+	height: 45px;
+    margin: 18px 5px;
+}
+
+
+.courses-item{
+	padding:3% 2%;
+}
+
+.card-body h6{
+	font-weight: bolder;
+}
+
 
 
 
