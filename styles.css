@@ -1,0 +1,98 @@
+body{
+	/*font-family: 'Montserrat';*/
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Roboto', sans-serif;
+ 
+
+}
+#title{
+
+	text-align: center;
+		background-repeat: no-repeat; 
+    background-image: url('https://wallpapercave.com/wp/wp5399943.jpg');
+    color: #fff;
+
+}
+
+.container-fluid{
+  padding: 3% 15% 3%;
+
+
+}
+
+.navbar{
+	padding:0 0 4.5rem;
+	margin-bottom: 4.5rem;
+}
+
+
+
+
+
+/*font-family: 'Ubuntu', sans-serif;     */
+
+/* Navigation bar */
+
+.navbar-brand{
+	font-size:2rem !important;
+	line-height: 1.5;
+	font-weight:bold;
+}
+
+.bigheading{
+	font-size:3rem;
+	line-height:1.5;
+	   
+
+}
+
+.section-heading{
+
+	font-size:3rem;
+	line-height:1.5;
+
+}
+
+
+p{
+	color: #ababab;
+
+}
+
+/*download buttons*/
+.downloadbtn{
+	margin: 2% 5% 5% 5%;
+
+}
+
+.btn-lg{
+	padding: 1rem 5rem !important;
+   
+}
+
+
+/*features section*/
+
+#features{
+	padding: 7% 4%;
+	position: relative;
+	background-color: #fff;
+	z-index:1;
+	
+}
+
+.feature-box{
+	    padding: 30px;
+}
+
+.feature-title{
+	font-size:1.5rem;
+
+}
+
+
+
+
+
