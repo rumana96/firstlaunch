@@ -10,7 +10,7 @@ font-family: 'Roboto', sans-serif;
 #title{
 
 	text-align: center;
-    background-image: url('https://wallpapercave.com/wp/wp5399943.jpg');
+    background-image: url('https://i.pinimg.com/originals/53/0a/74/530a746087d021696f38e010ff8c3112.jpg');
     color: #fff;
 
 }
@@ -21,17 +21,6 @@ font-family: 'Roboto', sans-serif;
 
 }
 
-.navbar{
-	padding:0 0 4.5rem;
-	margin-bottom: 4.5rem;
-}
-
-
-
-
-
-/*font-family: 'Ubuntu', sans-serif;     */
-
 /* Navigation bar */
 
 .navbar-brand{
@@ -39,6 +28,12 @@ font-family: 'Roboto', sans-serif;
 	line-height: 1.5;
 	font-weight:bold;
 }
+
+.navbar{
+	padding:0 0 4.5rem;
+	margin-bottom: 4.5rem;
+}
+
 
 .bigheading{
 	font-size:3rem;
@@ -60,8 +55,8 @@ p{
 
 }
 
-/*download buttons*/
-.downloadbtn{
+/*sign up button*/
+.signupbtn{
 	margin: 2% 5% 5% 5%;
 
 }
@@ -73,7 +68,6 @@ p{
 
 
 /*features section*/
-
 
 #features{
 	padding: 7% 9% 15%;
@@ -90,10 +84,19 @@ p{
 	font-size:1.5rem;
 
 }
+
+
+/*courses*/
+
 #courses{
 	
     padding: 80px;
-	    margin-top: -199px;
+	   margin-top: -240px;
+}
+
+.card{
+	border: 0;
+	width: fit-content;
 }
 .card-body{
 	    box-shadow: 2px 2px 12px lightgrey;
@@ -103,6 +106,7 @@ p{
     margin: 18px 5px;
 }
 
+
 .courses-item{
 	padding:3% 2%;
 }
@@ -111,23 +115,8 @@ p{
 	font-weight: bolder;
 }
 
-#cta{
-	background-image: url('https://wallpapercave.com/wp/wp6658601.jpg');
-	color:#fff;
-	padding: 7% 9%;
-
-}
-
-#cta p{
-	color: #fff;
-}
-
-.feature-box{
-	    padding: 30px;
-}
-
-
-#information{
+/*information*/
+#information, #footer{
 	background-color: #f5f5f5;
 }
 
@@ -138,11 +127,18 @@ p{
 .info-image{
 	    height: 280px;
 }
-
-.contact{
+/*contact*/
+.contact, #footer{
 	padding: 3% 4% 3%;
 }
 
 
+
+.socialicon{
+	margin:20px 5px;
+	    border-radius: 100%;
+	    width: 31px;
+	    box-shadow: 2px 2px 12px lightgrey;
+}
 
 
